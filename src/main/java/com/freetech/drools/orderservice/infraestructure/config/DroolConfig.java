@@ -23,7 +23,7 @@ public class DroolConfig {
         System.out.println("Container created ...");
         ReleaseId releaseId = kieServices.newReleaseId(
                 "pe.gob.contraloria.sisco",
-                "drools2-kjar",
+                "drools-kjar",
                 "LATEST");
         KieContainer kieContainer = kieServices.newKieContainer(releaseId);
 

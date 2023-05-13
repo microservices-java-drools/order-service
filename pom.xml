@@ -95,7 +95,7 @@
 
 		<dependency>
 			<groupId>pe.gob.contraloria.sisco</groupId>
-			<artifactId>drools2-kjar</artifactId>
+			<artifactId>drools-kjar</artifactId>
 			<version>LATEST</version>
 		</dependency>
 
