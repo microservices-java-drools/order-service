@@ -19,7 +19,7 @@
 	<properties>
 		<java.version>17</java.version>
 		<lombok.version>1.18.26</lombok.version>
-		<drools.version>8.37.0.Final</drools.version>
+		<drools.version>8.38.0.Final</drools.version>
 	</properties>
 
 	<dependencyManagement>
